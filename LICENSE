@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2023 MoisesINMDeveloper
+=======
+Copyright (c) 2021 Comunidad Platzi
+>>>>>>> 69a794f (Actualizacion del curso webpack con react)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
