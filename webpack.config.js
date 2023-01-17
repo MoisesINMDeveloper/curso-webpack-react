@@ -12,7 +12,7 @@ module.exports = {
         filename: "bundle.js",
     },
     resolve:{
-    extensions: [".js", ".jsx"],
+    extensions: ["*",".js", ".jsx"],
     alias: {
         "@components": path.resolve(__dirname, "./src/components/"),
         "@styles": path.resolve(__dirname, "./src/styles/"),
